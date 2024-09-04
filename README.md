@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @john73-cloud 
+- 👋 Hi, I’m John Uguru 
 - 👀 I’m interested in ...Software Development
 - 🌱 I’m currently learning ...Rust
 - 💞️ I’m looking to collaborate on ...Software Development
