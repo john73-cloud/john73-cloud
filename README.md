@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John Uguru 
 - 👀 I’m interested in ...Software Development
-- 🌱 I’m currently learning ...Rust
+- 🌱 I’m currently learning ...Go
 - 💞️ I’m looking to collaborate on ...Software Development
 - 📫 How to reach me johnogijiuguru@gmail.com
